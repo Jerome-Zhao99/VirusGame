@@ -1,0 +1,21 @@
+1.Basic requirements
+  (1) Player registration and login: Before the game starts, players are required to log in to the system.  The system requires a registration function. New players need to register. Registered players can log in directly to start the game.
+  (2) Pre-game interface: The first time you enter the game, the system will show a pre-game interface, asking to set your name.  At the beginning of the game, you will be given a certain amount of nutrients (equivalent to gold coins in the game).
+  (3) Initialize the game: Generate a map of the human body. Several types of viruses appear randomly in the map (their sizes are also different). When entering a certain range of the virus, the virus will actively attack you.
+  (4) The basic process of the game is as follows: ①You need to kill the virus by swallowing it, that is, swallowing the virus after touching it with your mobile.  ②After swallowing a virus, it can increase its size and gain a certain amount of experience. The size of the virus varies, and it can only swallow a virus smaller than itself, otherwise it will lose life value or even die.  As the size increases, larger viruses can be swallowed.  ③The experience of swallowing the virus can upgrade the character, and the ability will be improved after the upgrade (such as increasing the size, strengthening the defense, etc.).  ④ Eliminate the virus to obtain a certain amount of nutrients. Nutrients can be purchased in stores, and items can be used to improve survival and combat capabilities.  ⑤ When all viruses are eliminated, the game is won.
+  (5) You have your own health bar (HP). When you encounter a virus larger than yourself, you will lose your health. You can use upgrades or props to replenish your health. When the health is 0, the character will die.  The game ends after death.
+  (6) You need a store system for purchasing items.
+  (7) You need a backpack system for storing your props.
+  (8) Save/Exit the game: Players can save data (such as items, levels, nutrients, etc.).
+  
+  2.Advanced requirements
+  (1) Long-range attacks are added. Characters can have different weapons. Long-range attacks against viruses can cause certain damage regardless of size.
+  (2) Add character skills and blue bars (MP). Skills can make the character exert stronger combat power (such as enhancing cell activity), but it requires a certain energy value to activate, and there is a certain skill cooling time, and the energy value can be  Slowly recover or fight back over time.  More abundantly, skill points can be set, and the skill level can be improved with the upgrade or elimination of the virus.
+  (3) Add gameable characters, such as macrophages, T cells, etc. The characters can be switched, and the initial size, attack power, blood volume, and upgrade speed of different characters can be different.  4 (4) The new coronavirus can infect ordinary cells around it, increasing the difficulty of the game.
+  (5) Enrich the types of viruses. Different viruses have different actions and attack methods, which increase the difficulty of the game.
+  (6) Enrich the types of props, such as increasing the movement speed, temporarily reducing the size of the virus, etc.
+  (7) After the virus is eliminated, not only nutrients will be dropped, but also props and some items that can be sold to shops.
+  (8) Leaderboard, record the shortest time to complete the game, etc.
+  (9) Multiple archives. A player account can have multiple archives. Choose one archive before each game, and the level and nutrients will be saved with the archive.
+  (10) The setting and selection of different game difficulty.
+  (11) Others: background music, sound effects, interface optimization, richer game content design
